@@ -8,7 +8,7 @@ console.log(myUrl.href)
 //OR to string 
 console.log(myUrl.toString())
 
-//Host Root Domain 
+//Host Root Domain (gets port)
 console.log(myUrl.host)
 
 //Host Name (does not get port)
